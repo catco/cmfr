@@ -2,6 +2,7 @@
 cmfr.txt
 .DS_Store
 !wp-content/
+wp-config.php
 
 # ignore everything in the "wp-content" directory, except:
 # "mu-plugins", "plugins", "themes" directory
