@@ -1,0 +1,70 @@
+/*
+Theme Name:  My Child Theme. Child theme for the Pixeldom-lite Theme.
+Theme URI:  https://rachelmccollin.com
+Description:  Child theme for the Pixeldom-lite Theme.
+Author:  
+Textdomain:  
+Author URI:  
+Template:  pixeldom-lite
+Version:  1.0
+License:  GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html                 
+*/
+
+/* Colors
+#Base
+	#FFF
+	#000
+#1
+	#FDAD0D
+	#E3850B
+	#FA6700
+	#E3460B
+	#FD2B0D
+
+#2
+	#FD320D
+	#E3490B
+	#FA6800
+	#E3820B
+	#3B2B0D
+
+*/
+
+/* Fonts
+# Google Fonts
+	Kurale: https://fonts.google.com/specimen/Kurale?category=Serif&preview.text=Chez%20Cyrille%20%C3%A0%20%C3%A9%20%C3%A8%20!%20%3F%20%C3%A7&preview.text_type=custom#standard-styles
+	Montserrat: 
+
+# classic fonts
+
+*/
+
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Kurale', serif;
+}
+.site-descriptiona {
+	font-family: 'Kurale', serif;	
+}
+#navigation {
+	background: #FA6800;
+	border-bottom: 1px solid #FD320D;
+	font-family: 'Kurale', serif;
+}
+.menu li a {
+	color: #3B2B0D;
+}
+.menu li a:hover {
+	color: #FFF;
+}
+.pixeldom-grid li .item h2 a {
+	font-family: 'Kurale', serif;
+}
+
+
+
+
+
+
+
