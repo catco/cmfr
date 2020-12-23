@@ -44,13 +44,26 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Kurale', serif;
 }
-.site-descriptiona {
-	font-family: 'Kurale', serif;	
+#brand {
+	padding: 20px;
+	display:inline-block;
+	background: rgba(256, 256, 256, 0.6);
+	margin: 20px;
+	border: 1px solid #3B2B0D;
 }
-#navigation {
-	background: #FA6800;
-	border-bottom: 1px solid #FD320D;
-	font-family: 'Kurale', serif;
+.header-image-container {
+	margin: auto;
+}
+a.site-title {
+    font-size: 34px;
+    border-bottom: 1px solid #3B2B0D;
+    display: inline-block;
+    width: 75%;
+    margin-bottom: 15px;
+    color: #E3490B;
+}
+.site-description {
+	font-family: 'Kurale', serif;	
 }
 .menu li a {
 	color: #3B2B0D;
@@ -61,7 +74,11 @@ h1, h2, h3, h4, h5, h6 {
 .pixeldom-grid li .item h2 a {
 	font-family: 'Kurale', serif;
 }
-
+#navigation {
+	background: #FA6800;
+	border-bottom: 1px solid #FD320D;
+	font-family: 'Kurale', serif;
+}
 
 
 
