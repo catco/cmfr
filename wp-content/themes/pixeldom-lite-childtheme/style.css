@@ -79,7 +79,12 @@ a.site-title {
 	border-bottom: 1px solid #FD320D;
 	font-family: 'Kurale', serif;
 }
-
+.textwidget p {
+	font-size: 13px;
+}
+.widget-title {
+	font-family: 'Kurale', serif;;
+}
 
 
 
