@@ -41,13 +41,14 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
 
 
+
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Kurale', serif;
 }
 #brand {
-	padding: 20px;
+	padding: 25px 100px;
 	display:inline-block;
-	background: rgba(256, 256, 256, 0.6);
+	background: rgba(256, 256, 256, 0.7);
 	margin: 20px;
 	border: 1px solid #3B2B0D;
 }
@@ -58,7 +59,7 @@ a.site-title {
     font-size: 34px;
     border-bottom: 1px solid #3B2B0D;
     display: inline-block;
-    width: 75%;
+    width: 100%;
     margin-bottom: 15px;
     color: #E3490B;
 }
